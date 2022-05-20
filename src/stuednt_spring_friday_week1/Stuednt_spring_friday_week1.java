@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 //comments added from github for pull operation
+//comments added for fetch merge
 package stuednt_spring_friday_week1;
 import java.util.Scanner ;
 public class Stuednt_spring_friday_week1 {
