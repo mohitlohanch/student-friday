@@ -1,0 +1,28 @@
+package stuednt_spring_friday_week1;
+
+public class student {
+    private int studentId;
+    private String studentNum;
+
+    public int getStudentId() {
+        return studentId;
+    }
+
+    public void setStudentId(int studentId) {
+        this.studentId = studentId;
+    }
+
+    public student(int studentId, String studentNum) {
+        this.studentId = studentId;
+        this.studentNum = studentNum;
+    }
+
+    public String getStudentNum() {
+        return studentNum;
+    }
+
+    public void setStudentNum(String studentNum) {
+        this.studentNum = studentNum;
+    }
+    
+}
