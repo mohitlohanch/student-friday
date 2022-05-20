@@ -4,6 +4,7 @@
  */
 //comments added from github for pull operation
 //comments added for fetch merge
+//comments added
 package stuednt_spring_friday_week1;
 import java.util.Scanner ;
 public class Stuednt_spring_friday_week1 {
