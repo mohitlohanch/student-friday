@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-
+//comments
 package stuednt_spring_friday_week1;
 import java.util.Scanner ;
 public class Stuednt_spring_friday_week1 {
